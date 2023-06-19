@@ -31,7 +31,7 @@ const heading = React.createElement(
   "Hello world from react"
 );
 
-//jsx => React.createElement => ReactElement(JS object) => HTMLElement(render)
+//jsx =>Babel transpiles it to React.createElement => ReactElement(JS object) => HTMLElement(render)
 //above thing is done by babel ie converting jsx to React Element rest of the  thing is done by react
 const jsxHeading = <h1 id='jsx'>"Hello jsx"</h1>
 console.log(jsxHeading);

@@ -33,3 +33,7 @@ Import {Component} from "path"
  (Normal JS utility functions)
  - useState() - Superpowerful State variables in react
  - useEffect()
+
+# Two types of routing
+- client side routing : in react we make use of client side routing, we don't make a network call to get a page
+- server side routing: you make a network call and that page is coming from server

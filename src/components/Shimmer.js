@@ -1,45 +1,35 @@
 const Shimmer = () => {
   return (
-    <div className="shimmer-container">
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
+    <div className="flex flex-wrap justify-center items-center mt-14">
+      <div className="mx-6 my-4">
+        <div className="w-56 h-44 bg-slate-100 mb-4"></div>
+        <div className="w-44 h-4 bg-slate-100 mb-4"></div>
+        <div className="w-40 h-4 bg-slate-100 mb-4"></div>
       </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
+      <div className="mx-6 my-4">
+        <div className="w-56 h-44 bg-slate-100 mb-4"></div>
+        <div className="w-44 h-4 bg-slate-100 mb-4"></div>
+        <div className="w-40 h-4 bg-slate-100 mb-4"></div>
       </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
+      <div className="mx-6 my-4">
+        <div className="w-56 h-44 bg-slate-100 mb-4"></div>
+        <div className="w-44 h-4 bg-slate-100 mb-4"></div>
+        <div className="w-40 h-4 bg-slate-100 mb-4"></div>
       </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
+      <div className="mx-6 my-4">
+        <div className="w-56 h-44 bg-slate-100 mb-4"></div>
+        <div className="w-44 h-4 bg-slate-100 mb-4"></div>
+        <div className="w-40 h-4 bg-slate-100 mb-4"></div>
       </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
+      <div className="mx-6 my-4">
+        <div className="w-56 h-44 bg-slate-100 mb-4"></div>
+        <div className="w-44 h-4 bg-slate-100 mb-4"></div>
+        <div className="w-40 h-4 bg-slate-100 mb-4"></div>
       </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
-      </div>
-      <div className="shimmer-card">
-        <div className="content-1"></div>
-        <div className="content-2"></div>
+      <div className="mx-6 my-4">
+        <div className="w-56 h-44 bg-slate-100 mb-4"></div>
+        <div className="w-44 h-4 bg-slate-100 mb-4"></div>
+        <div className="w-40 h-4 bg-slate-100 mb-4"></div>
       </div>
     </div>
   );

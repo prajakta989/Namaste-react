@@ -23,7 +23,7 @@ const RestaurantCard = ({ resData }) => {
         />
         <h3>{name}</h3>
         <h4>{cuisines.join(", ")}</h4>
-        <h5 className="ratings">{costForTwo / 100} for Two</h5>
+        <h5 className="ratings">{costForTwo}</h5>
         <span className="ratings">{avgRating}stars</span>
         <span className="del-time">{deliveryTime}Minutes</span>
         <h4>User: {loggedinUser}</h4>
